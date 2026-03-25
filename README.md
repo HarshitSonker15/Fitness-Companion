@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fitness-Companion
 A modern workout application built using Kotlin and Jetpack Compose to help users stay fit and track their workouts. The app provides a clean and interactive UI for browsing workouts, searching for exercises, and viewing detailed workout information.
 =======
